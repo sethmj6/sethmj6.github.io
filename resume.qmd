@@ -1,89 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Seth Johnson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Seth M. Johnson
+Aspiring Auditor & Consultant | Accounting Student at BYU–Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:sethmj6@gmail.com">sethmj6@gmail.com</a> |
+<a href="https://www.linkedin.com/in/sethmerlinjohnson">linkedin.com/in/sethmerlinjohnson</a> |
+208.929.6819
 </div>
 
+---
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a B.S. in Accounting with a minor in Data Science at BYU–Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Tax prep, audit procedures, inventory tracking, team training, consulting
 
+### Interests
 
-### Research interests
+Forensic accounting, risk analysis, financial systems, process improvement, community leadership
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jul. 2025 (expected)`  
+__Brigham Young University–Idaho__, Rexburg, ID  
+- Bachelor of Science in Accounting  
+- Minor: Data Science  
+- GPA: 3.93 | Major GPA: 3.95  
+- Student Accounting Society Member  
+- Recipient: BYU-Idaho Scholarship & Diversity Foundation Scholarship
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+---
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Tax Internship  
+`Jan. 2024 – Mar. 2024`  
+__Rudd & Company__, Idaho Falls, ID  
+- Prepared hundreds of individual tax returns and several business returns  
+- Developed proficiency in Lacerte and tax documentation systems  
+- Interacted with clients in a professional and service-oriented manner  
 
-- Fellow
+### Explosives Tech / MMU Operator / Trainer  
+`Aug. 2018 – Oct. 2022`  
+__Maxam Explosives__, Sparwood, BC, Canada  
+- Co-developed the world’s first anti-nitrate water loading system  
+- Loaded blast patterns during 12-hour mining shifts  
+- Tracked and managed sensitive inventory in high-risk environments  
+- Trained dozens of new operators in mobile manufacturing units  
 
+### Board Member / Treasurer (Volunteer)  
+`Jan. 2018 – Dec. 2022`  
+__Mountain Land Management__, Canada  
+- Managed budgets and presented monthly financial reports  
+- Collaborated on municipal water/sewer infrastructure projects  
+- Drafted board SOPs and membership protocols  
+- Contributed over 300 volunteer hours to community improvement  
 
+---
 
-## Awards
+## Awards & Honors
 
-`2012`
-President, *Royal Society*, London, UK
+- BYU-Idaho Scholarship  
+- Diversity Foundation Scholarship  
+- Member of Student Accounting Society
 
-Associate, *French Academy of Science*, Paris, France
+---
 
+## Skills
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Lacerte Tax Software  
+- Financial Statement Presentation  
+- Inventory & Data Management  
+- Standard Operating Procedure Development  
+- Public Speaking & Team Leadership  
